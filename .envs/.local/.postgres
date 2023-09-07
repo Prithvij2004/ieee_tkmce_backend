@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=ieee_tkmce_backend
+POSTGRES_USER=XqqxgzbFZooZrJTvjwDyBCzKzjraysKy
+POSTGRES_PASSWORD=qYvs56rsRG1Nfy2j1J3eU6hR39gEakLtUuzNgiGVEW9pTFNi66tx2CRPxAXWEIpw
