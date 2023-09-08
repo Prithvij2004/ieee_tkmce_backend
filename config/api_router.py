@@ -23,4 +23,5 @@ urlpatterns = [
     path("contact/", include("ieee_tkmce_backend.contact.urls")),
     path("message/", include("ieee_tkmce_backend.message.urls")),
     path("society/", include("ieee_tkmce_backend.society.urls")),
+    path("home/", include("ieee_tkmce_backend.home.urls")),
 ]
